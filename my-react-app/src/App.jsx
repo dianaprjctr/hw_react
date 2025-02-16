@@ -5,14 +5,14 @@ import './App.css';
 function App() {
   const data = [
     {
-      img: "https://images.pexels.com/photos/4587983/pexels-photo-4587983.jpeg",
-      title: "Dog in the Park",
-      description: "A cute dog enjoying the sun."
+      img: "https://dzvin.media/wp-content/uploads/2019/11/orig.jpg",
+      title: "Перший кіт",
+      description: "Це сіамська кішка."
     },
     {
-      img: "https://images.pexels.com/photos/4588047/pexels-photo-4588047.jpeg",
-      title: "Sleepy Dog",
-      description: "A sleepy dog taking a nap."
+      img: "https://dzvin.media/wp-content/uploads/2019/11/shunshula.jpg",
+      title: "Другий кіт",
+      description: "Це британська плюшева кішка."
     }
   ];
 
